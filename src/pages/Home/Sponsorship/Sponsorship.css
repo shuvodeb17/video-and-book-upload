@@ -1,0 +1,21 @@
+.spon-wrapper {
+    position: relative;
+    height: 107px;
+    display: flex;
+    align-items: center;
+}
+
+.spon-image {
+    background-image: url('../../../assets/images/yt-bg-3.svg');
+    width: 80px;
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+.swiper-slide .swiper-slide-visible .swiper-slide-fully-visible .swiper-slide-active{
+    background-color: transparent !important;
+}

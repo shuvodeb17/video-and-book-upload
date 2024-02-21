@@ -1,0 +1,16 @@
+.yt-wrapper {
+    position: relative;
+    height: 72vh;
+}
+
+.yt-bg {
+    background-image: url('../../../assets/images/yt-bg-1.svg'), 
+                      url('../../../assets/images/yt-bg-2.svg');
+    background-repeat: no-repeat, no-repeat;
+    background-position: right top, left top;
+    background-size: 350px, 120px;
+    height: 80vh;
+    width: 98%;
+    position: absolute;
+    top: 0;
+}
