@@ -17,7 +17,7 @@ const Banner = () => {
                     <div className="flip-card-front relative">
                         <img className='absolute' src={frontImage} alt="Front" style={{ width: '100%' }} />
                         <div className="absolute inset-0 flex items-center justify-center">
-                            <h1 style={{ position: 'absolute', top: '85%', left: '50%', transform: 'translate(-50%, -50%)' }} className='text-3xl text-center'>Broadcasting services <br /> media production company</h1>
+                            <h1 style={{ position: 'absolute', top: '87%', left: '50%', transform: 'translate(-43%, -50%)' }} className='text-2xl text-center'>BROADCASTING SERVICES <br /> MEDIA PRODUCTION COMPANY</h1>
                         </div>
                     </div>
 
